@@ -8,6 +8,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-color: blanchedalmond;
+
 }
 .container {
   max-width: 1440px;
@@ -27,5 +29,6 @@ body {
   width: 25%;
 }
 .footer-image{
-  width: 10%;
+  width: 9%;
 }
+
