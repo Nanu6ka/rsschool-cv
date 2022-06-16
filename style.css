@@ -14,6 +14,7 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  background-color: rgb(245, 214, 168);
 }
 .nav-list {
   display: flex;
