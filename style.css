@@ -9,11 +9,14 @@ body {
   flex-direction: column;
   justify-content: space-between;
   background-color: blanchedalmond;
-
+ 
 }
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  background-color: rgb(245, 214, 168);
+  display:drid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 .nav-list {
   display: flex;
@@ -29,6 +32,6 @@ body {
   width: 25%;
 }
 .footer-image{
-  width: 9%;
+  width: 10%;
 }
 
